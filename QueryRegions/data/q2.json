@@ -1,0 +1,14 @@
+{
+  "valid_region": {
+    "p_min": { "x": 0, "y": 0 },
+    "p_max": { "x": 700, "y": 700 }
+  },
+  "query": {
+    "operator_crop": {
+      "region": {
+        "p_min": { "x": 200, "y": 0 },
+        "p_max": { "x": 400, "y": 600 }
+      }
+    }
+  }
+}
